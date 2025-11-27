@@ -2,6 +2,22 @@
 
 Interactive web application for exploring and analyzing the CTU-13 botnet dataset.
 
+## 📸 Screenshots
+
+### Data Loading
+![Data Loading](images/data-loading.png)
+
+### Traffic Analysis
+![Traffic Analysis](images/traffic-analysis.png)
+
+### Botnet Detection
+![Botnet Detection](images/botnet-detection.png)
+
+### Insights
+![Insights](images/insights.png)
+
+---
+
 ## Quick Start
 
 1. **Install dependencies:**
